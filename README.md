@@ -1,4 +1,4 @@
-# music playera
+# music player
   
 O Music Player Web App é uma aplicação simples de reprodução de música que permite reproduzir as músicas contidas na biblioteca, exibindo o tempo total e o nome de cada música.
 
